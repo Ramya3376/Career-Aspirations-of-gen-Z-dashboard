@@ -73,4 +73,6 @@ Organizational Culture: Highlights the importance of mission clarity and support
 
 Retention Insight: Reveals what could lead to job dissatisfaction and attrition among young professionals.
 
-**🖼 Screenshots / Demos**
+**🖼 Screenshots / Demos** 
+
+https://github.com/Ramya3376/Career-Aspirations-of-gen-Z-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.jpeg
